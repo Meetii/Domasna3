@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\QWxhbiBXYWxrZXIgLSBUaGUgU3BlY3RyZQ==.mp3</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">4977315</Metadata>
+    <Metadata name="Source">Alan Walker - The Spectre.mp3</Metadata>
+    <Metadata name="SourceFile">QWxhbiBXYWxrZXIgLSBUaGUgU3BlY3RyZQ==.mp3</Metadata>
+    <Metadata name="mp3">Alan Walker - The Spectre</Metadata>
+    <Metadata name="srcurl">QWxhbiBXYWxrZXIgLSBUaGUgU3BlY3RyZQ==.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">QWxhbiBXYWxrZXIgLSBUaGUgU3BlY3RyZQ==.mp3</Metadata>
+    <Metadata name="srclinkFile">QWxhbiBXYWxrZXIgLSBUaGUgU3BlY3RyZQ==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Title">Spectre - Music</Metadata>
+    <Metadata name="Title">Alan Walker - The Spectre</Metadata>
+    <Metadata name="Identifier">HASH44acc9855a988fb428e4aa</Metadata>
+    <Metadata name="lastmodified">1652705949</Metadata>
+    <Metadata name="lastmodifieddate">20220516</Metadata>
+    <Metadata name="oailastmodified">1652706030</Metadata>
+    <Metadata name="oailastmodifieddate">20220516</Metadata>
+    <Metadata name="assocfilepath">HASH44ac.dir</Metadata>
+    <Metadata name="gsdlassocfile">QWxhbiBXYWxrZXIgLSBUaGUgU3BlY3RyZQ==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

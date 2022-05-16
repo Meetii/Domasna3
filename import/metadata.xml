@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>Alan Walker - Force\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Force - Music</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Alan Walker - The Spectre\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Spectre - Music</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Alan-Walker-_Faded\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Logo</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>d2298d3eaadd15d3800bbd14f605e5a9\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Alan Walker</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>
